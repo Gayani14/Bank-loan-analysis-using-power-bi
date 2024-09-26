@@ -50,7 +50,7 @@ You can find images of the dashboards in the `Output` directory of this reposito
 
 #### filter tab:
 Instead of slicers i have used filters for this dashboard to optimise the performance of my dashboard.
-
+![output](output/loan%20dashboard.png)
 
 
 !<img width="157" alt="filter for loan dashboard" src="https://github.com/user-attachments/assets/d938cce3-9afb-432b-b0eb-74121f0ade9f">
@@ -59,3 +59,5 @@ Instead of slicers i have used filters for this dashboard to optimise the perfor
 ### Contributing
 
 Contributions to enhance the analysis or add new features are welcome! If you have any suggestions, ideas, or bug fixes, feel free to open an issue or submit a pull request.
+
+<img src="https://i.imghippo.com/files/4SP3v1727353490.png">
