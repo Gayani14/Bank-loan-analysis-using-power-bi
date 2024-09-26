@@ -46,11 +46,15 @@ The Details Dashboard streamlines access to critical loan data, facilitating inf
 You can find images of the dashboards in the `Output` directory of this repository.
 
 #### Dashboard
-!"C:\Users\Gayani\Downloads\output\loan dashboard .png"
+<img width="1103" alt="loan dashboard " src="https://github.com/user-attachments/assets/0efe5485-9981-4a20-9332-756d2f0a5071">
 
 #### filter tab:
 Instead of slicers i have used filters for this dashboard to optimise the performance of my dashboard.
-!"C:\Users\Gayani\Downloads\output\filter for loan dashboard.png"
+
+
+
+!<img width="157" alt="filter for loan dashboard" src="https://github.com/user-attachments/assets/d938cce3-9afb-432b-b0eb-74121f0ade9f">
+
 
 ### Contributing
 
