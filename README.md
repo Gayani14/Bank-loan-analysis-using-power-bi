@@ -54,10 +54,14 @@ Instead of slicers i have used filters for this dashboard to optimise the perfor
 <img src="https://i.imghippo.com/files/rpr4i1727353456.png">
 
 ### KPI'S IN DETAIL
-<img src="https://i.imghippo.com/files/ZNTSR1727357984.png">
-<img src="https://i.imghippo.com/files/Hbb6e1727358250.png">
+<img src="https://i.imghippo.com/files/ZNTSR1727357984.png" width="700" height="500">
+
+<img src="https://i.imghippo.com/files/8efXa1727358064.png">
+
 <img src="https://i.imghippo.com/files/6CNhI1727358226.png">
+
 <img src="https://i.imghippo.com/files/aGwvH1727358114.png">
+
 <img src="https://i.imghippo.com/files/Hbb6e1727358250.png">
 
 
