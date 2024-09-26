@@ -46,18 +46,22 @@ The Details Dashboard streamlines access to critical loan data, facilitating inf
 You can find images of the dashboards in the `Output` directory of this repository.
 
 #### Dashboard
-<img width="1103" alt="loan dashboard " src="https://github.com/user-attachments/assets/0efe5485-9981-4a20-9332-756d2f0a5071">
+<img src="https://i.imghippo.com/files/4SP3v1727353490.png">
 
 #### filter tab:
 Instead of slicers i have used filters for this dashboard to optimise the performance of my dashboard.
-![output](output/loan%20dashboard.png)
 
+<img src="https://i.imghippo.com/files/rpr4i1727353456.png">
 
-!<img width="157" alt="filter for loan dashboard" src="https://github.com/user-attachments/assets/d938cce3-9afb-432b-b0eb-74121f0ade9f">
+### KPI'S IN DETAIL
+<img src="https://i.imghippo.com/files/ZNTSR1727357984.png">
+<img src="https://i.imghippo.com/files/Hbb6e1727358250.png">
+<img src="https://i.imghippo.com/files/6CNhI1727358226.png">
+<img src="https://i.imghippo.com/files/aGwvH1727358114.png">
+<img src="https://i.imghippo.com/files/Hbb6e1727358250.png">
 
 
 ### Contributing
 
 Contributions to enhance the analysis or add new features are welcome! If you have any suggestions, ideas, or bug fixes, feel free to open an issue or submit a pull request.
 
-<img src="https://i.imghippo.com/files/4SP3v1727353490.png">
